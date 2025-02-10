@@ -1,1 +1,2 @@
 # MuArt
+Python Dosya oluşturucu.
